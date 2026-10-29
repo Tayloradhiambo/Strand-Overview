@@ -64,6 +64,6 @@ Early stage, and honest about it. Identification accuracy on general-purpose mod
 
 ## Built by
 
-**Taylor Adhiambo**: actuarial analyst and developer, Nairobi.
+**Stacy Taylor Adhiambo**: actuarial analyst and developer, Nairobi.
 [LinkedIn](#) · [Website](#)
 
