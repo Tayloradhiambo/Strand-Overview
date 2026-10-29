@@ -24,14 +24,6 @@ While building the MVP on a leading general-purpose vision model, I found that t
 
 This is a familiar pattern in AI systems: models trained on data that under-represents some groups perform worse for those groups, and the failure is invisible until someone from that group tests it. Strand's response is to build the data that's missing.
 
-## Approach
-
-**Phase 1 — MVP on a third-party vision model.** Ship fast, learn where general-purpose models fail.
-
-**Phase 2 — Proprietary dataset (in progress).** Partnering with salon-based hairstylists in Nairobi who upload the styles they do daily, labelled against the Strand taxonomy. The dataset is the core asset; the model layer is designed to be swappable.
-
-**Phase 3 — Trends.** Show which styles are trending where and when.
-
 ## Architecture
 
 ```
